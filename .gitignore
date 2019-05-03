@@ -1,9 +1,13 @@
+.DS_Store
+
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+Assets/PaintIn3d*
+Assets/Prefabs/Hand*
 
 # Visual Studio cache directory
 .vs/
